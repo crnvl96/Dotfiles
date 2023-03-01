@@ -17,7 +17,6 @@ lvim.plugins = {
   { "jose-elias-alvarez/typescript.nvim" },
   { "petertriho/nvim-scrollbar" },
   { "kevinhwang91/nvim-hlslens" },
-  { "lewis6991/gitsigns.nvim" },
   { "renerocksai/telekasten.nvim" },
   { 'jinh0/eyeliner.nvim' },
   { "zbirenbaum/copilot.lua" },
