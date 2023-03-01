@@ -3,8 +3,13 @@ lvim.plugins = {
   -- no-config-file
   { "moll/vim-bbye" },
   { "fatih/vim-go" },
+  { "lunarvim/github.nvim" },
+  { "ThePrimeagen/harpoon" },
+  { "psliwka/vim-smoothie" },
+  { "MattesGroeger/vim-bookmarks" },
+  { "sindrets/diffview.nvim", requires = "nvim-lua/plenary.nvim" },
   --
-  { "folke/trouble.nvim",                    cmd = "TroubleToggle" },
+  { "folke/trouble.nvim",                                        cmd = "TroubleToggle" },
   { "arcticicestudio/nord-vim" },
   { "norcalli/nvim-colorizer.lua" },
   { "roobert/tailwindcss-colorizer-cmp.nvim" },
@@ -18,7 +23,15 @@ lvim.plugins = {
   { "petertriho/nvim-scrollbar" },
   { "kevinhwang91/nvim-hlslens" },
   { "renerocksai/telekasten.nvim" },
-  { 'jinh0/eyeliner.nvim' },
+  { "jinh0/eyeliner.nvim" },
   { "zbirenbaum/copilot.lua" },
-  { "zbirenbaum/copilot-cmp",                after = { "copilot.lua" } },
+  { "zbirenbaum/copilot-cmp",                                    after = { "copilot.lua" } },
+  { "christianchiarulli/nvim-ts-autotag" },
+  { "kylechui/nvim-surround",                                    tag = "*" },
+  { "ghillb/cybu.nvim" },
+  { "kevinhwang91/nvim-bqf" },
+  { "is0n/jaq-nvim" },
+  { "LukasPietzschmann/telescope-tabs",                          requires = { "nvim-telescope/telescope.nvim" }, },
+  { "phaazon/hop.nvim",                                          branch = "v2" },
+  { "monaqa/dial.nvim" }
 }

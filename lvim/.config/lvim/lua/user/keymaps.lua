@@ -15,7 +15,7 @@ keymap("n", "<S-n>", "<cmd>BufferLineCloseLeft<CR>", opts)
 keymap("n", "<S-m>", "<cmd>BufferLineCloseRight<CR>", opts)
 keymap("n", "<leader>q", ":Bdelete<CR>", opts)
 keymap("n", "<leader>Q", ":Bwipeout<CR>", opts)
-keymap("n", "<leader>W", ":bufdo :Bdelete<CR>", opts)
+keymap("n", "<leader>z", ":bufdo :Bdelete<CR>", opts)
 
 -- unmap a default keymapping
 -- vim.keymap.del("n", "<C-Up>")

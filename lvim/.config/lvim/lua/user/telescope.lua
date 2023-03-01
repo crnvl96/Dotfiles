@@ -48,7 +48,6 @@ lvim.builtin.telescope.defaults.file_ignore_patterns = {
   "%.flac",
   "%.tar.gz",
 }
-local _, actions = pcall(require, "telescope.actions")
 
 lvim.builtin.telescope.pickers.live_grep = {
   theme = "dropdown",
