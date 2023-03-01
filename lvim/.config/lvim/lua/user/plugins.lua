@@ -22,5 +22,4 @@ lvim.plugins = {
   { 'jinh0/eyeliner.nvim' },
   { "zbirenbaum/copilot.lua" },
   { "zbirenbaum/copilot-cmp",                after = { "copilot.lua" } },
-  { "nvim-tree/nvim-web-devicons" }
 }
