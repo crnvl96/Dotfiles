@@ -1,4 +1,4 @@
-local ok, formatters = pcall(require, "null-ls")
+local ok, formatters = pcall(require, "lvim.lsp.null-ls.formatters")
 if not ok then
   return
 end
