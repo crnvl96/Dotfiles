@@ -1,3 +1,3 @@
-vim.api.nvim_create_autocmd("VimEnter", {
-    command = ":GoUpdateBinaries",
-})
+-- vim.api.nvim_create_autocmd("VimEnter", {
+--     command = ":GoUpdateBinaries",
+-- })
