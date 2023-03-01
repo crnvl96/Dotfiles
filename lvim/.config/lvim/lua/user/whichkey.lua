@@ -28,7 +28,7 @@ lvim.builtin.which_key.mappings["g"] = {
   name = "Git",
   g = { "<cmd>lua require 'lvim.core.terminal'.lazygit_toggle(12000)<cr>", "Lazygit" },
   d = {
-    "<cmd>DiffviewOpen origin/main...HEAD<cr>",
+    "<cmd>DiffviewOpen<cr>",
     "Diff",
   },
   b = {

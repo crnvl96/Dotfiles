@@ -9,7 +9,6 @@
 -- lazydocker (https://github.com/jesseduffield/lazydocker)
 -- lazygit (https://github.com/jesseduffield/lazygit)
 -- lazynpm (https://github.com/jesseduffield/lazynpm)
--- add GitBlame to whichkeys
 reload "user.autocommands"
 reload "user.colorizer"
 reload "user.copilot"
