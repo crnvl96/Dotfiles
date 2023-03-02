@@ -67,8 +67,8 @@ scrolling:
 
 window:
   dimensions:
-    lines: 40
-    columns: 240
+    lines: 0
+    columns: 0
   padding:
     x: 0
     y: 0
