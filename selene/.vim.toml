@@ -1,0 +1,12 @@
+[selene]
+base = "lua51"
+name = "vim"
+
+[vim]
+any = true
+exclude = ["*.spec.lua", "config.lua"]
+
+[lvim]
+any = true
+exclude = ["*.spec.lua", "config.lua"]
+

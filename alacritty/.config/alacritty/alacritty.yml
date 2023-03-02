@@ -61,6 +61,10 @@ font:
     style: Italic
   size: 13.0
 
+scrolling:
+  history: 10000
+  multiplier: 3
+
 window:
   dimensions:
     lines: 40

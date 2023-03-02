@@ -3,10 +3,7 @@ if not ok then
     return
 end
 
-vim.defer_fn(
-    function()
-        copilot.setup {
-            plugin_manager_path = os.getenv "LUNARVIM_RUNTIME_DIR" .. "/site/pack/packer",
-        }
-    end, 100
-)
+copilot.setup({
+  suggestion = { enabled = false },
+  panel = { enabled = false },
+})

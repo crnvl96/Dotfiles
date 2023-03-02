@@ -50,7 +50,7 @@ lvim.builtin.telescope.defaults.file_ignore_patterns = {
 }
 
 lvim.builtin.telescope.pickers.live_grep = {
-  theme = "dropdown",
+  layout_strategy = "horizontal",
   layout_config = {
     width = 0.99,
     height = 0.99,
@@ -58,7 +58,7 @@ lvim.builtin.telescope.pickers.live_grep = {
 }
 
 lvim.builtin.telescope.pickers.grep_string = {
-  theme = "dropdown",
+  layout_strategy = "horizontal",
   layout_config = {
     width = 0.99,
     height = 0.99,
@@ -66,9 +66,8 @@ lvim.builtin.telescope.pickers.grep_string = {
 }
 
 lvim.builtin.telescope.pickers.find_files = {
-  theme = "dropdown",
-  previewer = false,
-  layout_config = {
+    layout_strategy = "horizontal",
+    layout_config = {
     width = 0.99,
     height = 0.99,
   },
