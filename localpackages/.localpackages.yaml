@@ -1,14 +1,15 @@
 programs:
-    - lazydocker
-    - lazygit
+    - lazydocker:
+    - lazygit:
     - lazyvim:
         - if clipboard do not work:
-            - xclip | xsel
-    - kitty
-    - tig
-    - asdf
-    - zsh
+            - xclip:
+            - xsel:
+    - kitty:
+    - tig:
+    - asdf:
+    - zsh:
     - zap:
-        - other options:
-            - oh my zsh
-    - luajit
+    - oh-my-zsh:
+    - luajit:
+    - stow:
