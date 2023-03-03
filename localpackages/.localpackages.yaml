@@ -11,3 +11,4 @@ programs:
     - zap:
         - other options:
             - oh my zsh
+    - luajit
