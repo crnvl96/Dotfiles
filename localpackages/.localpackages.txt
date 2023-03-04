@@ -1,0 +1,18 @@
+- lazydocker
+- lazygit
+- lazyvim
+- xclip
+- xsel
+- kitty
+- tig
+- zsh
+- zap
+- stow
+
+------------------------
+
+- go
+- lua
+- python
+- TS
+- rust
