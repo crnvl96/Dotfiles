@@ -1,18 +1,22 @@
-- lazydocker
-- lazygit
-- lazyvim
-- xclip
-- xsel
-- kitty
-- tig
-- zsh
-- zap
-- stow
+- lazydocker (https://github.com/jesseduffield/lazydocker)
+- lazygit (https://github.com/jesseduffield/lazygit)
+- lazyvim (https://www.lazyvim.org/)
+- xclip (yay)
+- kitty (https://sw.kovidgoyal.net/kitty/binary/)
+- tig (yay)
+- zsh (https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
+- zap (https://www.zapzsh.org/)
+- stow (https://www.gnu.org/software/stow/)
+- asdf (https://asdf-vm.com/guide/getting-started.html)
+- alacritty (https://github.com/alacritty/alacritty/blob/master/INSTALL.md#linux--windows--bsd)
+- neovim (https://github.com/richin13/asdf-neovim)
+- tmux (https://github.com/tmux/tmux/wiki/Installing)
 
 ------------------------
 
 - go
 - lua
 - python
-- TS
+- node
 - rust
+- ruby
