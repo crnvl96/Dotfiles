@@ -20,3 +20,4 @@
 - rust (https://github.com/code-lever/asdf-rust)
 - ruby (https://github.com/asdf-vm/asdf-ruby)
 - neovim (https://github.com/richin13/asdf-neovim)
+- perl (https://github.com/ouest/asdf-perl)
