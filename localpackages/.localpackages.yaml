@@ -7,9 +7,6 @@ programs:
             - xsel:
     - kitty:
     - tig:
-    - asdf:
     - zsh:
     - zap:
-    - oh-my-zsh:
-    - luajit:
     - stow:
