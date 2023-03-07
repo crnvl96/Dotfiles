@@ -59,7 +59,7 @@ font:
   italic:
     family: JetBrainsMono Nerd Font
     style: Italic
-  size: 13.0
+  size: 7.0
 
 scrolling:
   history: 10000
