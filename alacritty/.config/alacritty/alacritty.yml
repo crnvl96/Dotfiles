@@ -1,3 +1,7 @@
+# import:
+#   - ~/.config/alacritty/colors.yml
+#   - ~/.config/alacritty/fonts.yml
+
 colors:
   primary:
     background: '#2e3440'
