@@ -8,7 +8,6 @@ return {
         "black",
         "css-lsp",
         "cssmodules-language-server",
-        "deno",
         "docker-compose-language-service",
         "dockerfile-language-server",
         "eslint-lsp",
