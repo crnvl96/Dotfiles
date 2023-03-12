@@ -15,7 +15,7 @@ include ~/.config/sway/sway-input
 include ~/.config/sway/sway-output
 include ~/.config/sway/sway-modes
 include ~/.config/sway/sway-theme
-include ~/.config/sway/outputs
+## include ~/.config/sway/outputs
 
 ##-- General Settings --------------------
 swaybg_command swaybg
