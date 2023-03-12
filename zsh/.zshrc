@@ -13,6 +13,7 @@ plug "zap-zsh/atmachine-prompt"
 plug "zsh-users/zsh-autosuggestions"
 plug "zsh-users/zsh-syntax-highlighting"
 plug "zap-zsh/exa"
+plug "zap-zsh/vim"
 
 # asdf
 . "$HOME/.asdf/asdf.sh"
