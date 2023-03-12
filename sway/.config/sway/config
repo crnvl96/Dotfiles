@@ -18,11 +18,11 @@ include ~/.config/sway/sway-theme
 include ~/.config/sway/outputs
 
 ##-- General Settings --------------------
-default_orientation horizontal
 swaybg_command swaybg
 swaynag_command swaynag
 workspace_layout default
 focus_follows_mouse yes
+exec_always autotiling --limit 2
 
 ##-- Variables ---------------------------
 set $term /usr/bin/alacritty
