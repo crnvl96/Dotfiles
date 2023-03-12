@@ -59,10 +59,6 @@ colors:
     magenta: "#8c738c"
     cyan: "#6d96a5"
     white: "#aeb3bb"
-import:
-  - ~/.config/alacritty/colors.yml
-  - ~/.config/alacritty/fonts.yml
-
 scrolling:
   history: 10000
   multiplier: 3
