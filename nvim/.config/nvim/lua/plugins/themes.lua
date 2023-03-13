@@ -2,7 +2,7 @@ return {
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "nord",
+      colorscheme = "catppuccin-mocha",
     },
   },
   {
@@ -10,5 +10,9 @@ return {
   },
   {
     "AlexvZyl/nordic.nvim",
+  },
+  {
+    "catppuccin/nvim",
+    name = "catppuccin",
   },
 }
