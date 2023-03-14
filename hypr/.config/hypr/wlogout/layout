@@ -1,25 +1,30 @@
 {
-    "label" : "lock",
-    "action" : "~/.config/sway/wlogout/actions --lock",
-    "keybind" : "l"
-}
-{
-    "label" : "logout",
-    "action" : "~/.config/sway/wlogout/actions --logout",
-    "keybind" : "e"
-}
-{
     "label" : "suspend",
-    "action" : "~/.config/sway/wlogout/actions --suspend",
+    "text" : "Suspend",
+    "action" : "~/.config/hypr/wlogout/actions --suspend",
     "keybind" : "u"
 }
 {
+    "label" : "logout",
+    "text" : "Logout",
+    "action" : "~/.config/hypr/wlogout/actions --logout",
+    "keybind" : "e"
+}
+{
+    "label" : "lock",
+    "text" : "Lock",
+    "action" : "~/.config/hypr/wlogout/actions --lock",
+    "keybind" : "l"
+}
+{
     "label" : "reboot",
-    "action" : "~/.config/sway/wlogout/actions --reboot",
+    "text" : "Reboot",
+    "action" : "~/.config/hypr/wlogout/actions --reboot",
     "keybind" : "r"
 }
 {
     "label" : "shutdown",
-    "action" : "~/.config/sway/wlogout/actions --shutdown",
+    "text" : "Shutdown",
+    "action" : "~/.config/hypr/wlogout/actions --shutdown",
     "keybind" : "s"
 }
